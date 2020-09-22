@@ -1,0 +1,56 @@
+{
+  "id": "a55b1f7f-1c54-486c-8bc5-daea4537b0c4",
+  "name": "Shorty BC",
+  "publisher": "Nexon Asia Pacific Pty. Ltd",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "c672c76d-56bc-488f-a85a-11399d6e34a7",
+      "name": "Delivery Route Mgt",
+      "publisher": "Nexon Asia Pacific Pty Ltd.",
+    "version": "1.0.0.4"
+    },
+    {
+      "id": "ca265bf7-447d-4a16-a8f2-0cd3c0e07795",
+      "name": "EDIMgt",
+      "publisher": "Nexon Asia Pacific Pty. Ltd.",
+      "version": "1.0.0.0"
+    },
+    {
+     "id": "f19cdf95-8210-4a35-8415-dfcedbd419b0",
+      "name": "Food Serve Management",
+      "publisher": "Nexon Asia Pacific Pty Ltd",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 61900,
+      "to": 61999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ShortyBC.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
